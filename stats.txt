@@ -1,0 +1,42 @@
+Process Statistics:
+Client 0 received 3 requests!
+Proxy 0 forwarded 3 requests!
+Server 0 responded to 3 requests!
+
+Operation Statistics:
+OP: 0
+Status: S
+Client_id: 0
+Proxy_id: 0
+Server_id: 0
+Created: 02/10/22 22:24:42.477
+Client_time: 02/10/22 22:24:42.477
+Proxy_time: 02/10/22 22:24:42.477
+Server_time: 02/10/22 22:24:42.477
+Ended: 02/10/22 22:24:42.477
+Total Time(us): 261
+
+OP: 1
+Status: S
+Client_id: 0
+Proxy_id: 0
+Server_id: 0
+Created: 02/10/22 22:24:43.686
+Client_time: 02/10/22 22:24:43.686
+Proxy_time: 02/10/22 22:24:43.686
+Server_time: 02/10/22 22:24:43.686
+Ended: 02/10/22 22:24:43.686
+Total Time(us): 171
+
+OP: 2
+Status: S
+Client_id: 0
+Proxy_id: 0
+Server_id: 0
+Created: 02/10/22 22:24:44.485
+Client_time: 02/10/22 22:24:44.485
+Proxy_time: 02/10/22 22:24:44.485
+Server_time: 02/10/22 22:24:44.485
+Ended: 02/10/22 22:24:44.485
+Total Time(us): 153
+

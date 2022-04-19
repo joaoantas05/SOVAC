@@ -1,0 +1,8 @@
+20
+20
+1
+1
+1
+10
+log.txt
+stats.txt
